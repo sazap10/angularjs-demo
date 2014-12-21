@@ -63,3 +63,4 @@ test/coverage/
 modules/public/
 modules/views/
 /public/build/
+.tmp/
